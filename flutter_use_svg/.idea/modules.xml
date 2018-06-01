@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/flutter_myapp.iml" filepath="$PROJECT_DIR$/flutter_myapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_myapp_android.iml" filepath="$PROJECT_DIR$/flutter_myapp_android.iml" />
+    </modules>
+  </component>
+</project>
