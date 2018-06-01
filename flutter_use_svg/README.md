@@ -1,8 +1,2 @@
-# flutter_myapp
-
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+演示如何在flutter中使用svg，过程请戳这里:
+https://segmentfault.com/a/1190000015132238
