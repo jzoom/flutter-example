@@ -6,3 +6,7 @@ https://github.com/jzoom/flutter-example/tree/master/flutter_use_svg
 
 # flutter使用剪裁,评分控件rating_bar
 https://github.com/jzoom/flutter-example/tree/master/flutter_clip
+
+
+# flutter中页面跳转
+https://github.com/jzoom/flutter-example/tree/master/flutter_navigator
