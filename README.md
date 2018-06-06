@@ -10,3 +10,10 @@ https://github.com/jzoom/flutter-example/tree/master/flutter_clip
 
 # flutter中页面跳转
 https://github.com/jzoom/flutter-example/tree/master/flutter_navigator
+
+
+# flutter中调用原生模块
+https://github.com/jzoom/flutter-example/tree/master/flutter_baidu_map
+
+
+
