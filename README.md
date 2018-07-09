@@ -15,5 +15,8 @@ https://github.com/jzoom/flutter-example/tree/master/flutter_navigator
 # flutter中调用原生模块
 https://github.com/jzoom/flutter-example/tree/master/flutter_baidu_map
 
+# flutter中使用redux
+https://github.com/jzoom/flutter-example/tree/master/flutter_use_redux
+
 
 
