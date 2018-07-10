@@ -18,5 +18,5 @@ https://github.com/jzoom/flutter-example/tree/master/flutter_baidu_map
 # flutter中使用redux
 https://github.com/jzoom/flutter-example/tree/master/flutter_use_redux
 
-
-
+# flutter中使用redux(2)
+https://github.com/jzoom/flutter-example/tree/master/flutter_use_redux-2
