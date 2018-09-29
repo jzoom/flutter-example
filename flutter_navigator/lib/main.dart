@@ -46,8 +46,8 @@ class _MyHomePageState extends State<MyHomePage> {
           children: <Widget>[
 
             new FlatButton(onPressed: (){
-              
-              Navigator.pushNamed<String>(context, "nameRoute");
+
+              Navigator.pushNamed<dynamic>(context, "nameRoute");
 
             }, child: new Text("直接使用name跳转")),
 
